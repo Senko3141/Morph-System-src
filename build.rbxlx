@@ -1,0 +1,69 @@
+<roblox version="4">
+  <Item class="HttpService" referent="0">
+    <Properties>
+      <string name="Name">HttpService</string>
+      <bool name="HttpEnabled">true</bool>
+    </Properties>
+  </Item>
+  <Item class="Lighting" referent="1">
+    <Properties>
+      <string name="Name">Lighting</string>
+    </Properties>
+  </Item>
+  <Item class="ReplicatedFirst" referent="2">
+    <Properties>
+      <string name="Name">ReplicatedFirst</string>
+    </Properties>
+  </Item>
+  <Item class="ReplicatedStorage" referent="3">
+    <Properties>
+      <string name="Name">ReplicatedStorage</string>
+    </Properties>
+  </Item>
+  <Item class="ServerScriptService" referent="4">
+    <Properties>
+      <string name="Name">ServerScriptService</string>
+    </Properties>
+  </Item>
+  <Item class="ServerStorage" referent="5">
+    <Properties>
+      <string name="Name">ServerStorage</string>
+    </Properties>
+  </Item>
+  <Item class="StarterGui" referent="6">
+    <Properties>
+      <string name="Name">StarterGui</string>
+    </Properties>
+  </Item>
+  <Item class="StarterPack" referent="7">
+    <Properties>
+      <string name="Name">StarterPack</string>
+    </Properties>
+  </Item>
+  <Item class="StarterPlayer" referent="8">
+    <Properties>
+      <string name="Name">StarterPlayer</string>
+    </Properties>
+    <Item class="StarterCharacterScripts" referent="9">
+      <Properties>
+        <string name="Name">StarterCharacterScripts</string>
+      </Properties>
+    </Item>
+    <Item class="StarterPlayerScripts" referent="10">
+      <Properties>
+        <string name="Name">StarterPlayerScripts</string>
+      </Properties>
+    </Item>
+  </Item>
+  <Item class="Workspace" referent="11">
+    <Properties>
+      <string name="Name">Workspace</string>
+      <bool name="FilteringEnabled">true</bool>
+    </Properties>
+    <Item class="Folder" referent="12">
+      <Properties>
+        <string name="Name">Scripts</string>
+      </Properties>
+    </Item>
+  </Item>
+</roblox>
