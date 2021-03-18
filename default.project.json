@@ -1,0 +1,73 @@
+{
+    "name": "Morph-System-src",
+    "tree": {
+      "$className": "DataModel",
+      "HttpService": {
+        "$className": "HttpService",
+        "$properties": {
+          "HttpEnabled": true
+        }
+      },
+      "Lighting": {
+        "$className": "Lighting",
+        "$ignoreUnknownInstances": true
+      },
+      "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ReplicatedStorage"
+      },
+      "StarterGui": {
+        "$className": "StarterGui",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterGui"
+      },
+      "ServerScriptService": {
+        "$className": "ServerScriptService",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerScriptService"
+      },
+      "StarterPack": {
+        "$className": "StarterPack",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPack"
+      },
+      "StarterPlayer": {
+        "$className": "StarterPlayer",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPlayer",
+        "StarterCharacterScripts": {
+          "$className": "StarterCharacterScripts",
+          "$ignoreUnknownInstances": true,
+          "$path": "Ssrc/tarterCharacterScripts"
+        },
+        "StarterPlayerScripts": {
+          "$className": "StarterPlayerScripts",
+          "$ignoreUnknownInstances": true,
+          "$path": "src/StarterPlayerScripts"
+        }
+      },
+      "ReplicatedFirst": {
+        "$className": "ReplicatedFirst",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ReplicatedFirst"
+      },
+      "ServerStorage": {
+        "$className": "ServerStorage",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerStorage"
+      },
+      "Workspace": {
+        "$className": "Workspace",
+        "$ignoreUnknownInstances": true,
+        "$properties": {
+          "FilteringEnabled": true
+        },
+        "Scripts": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "$path": "src/Workspace"
+        }
+      }
+    }
+  }
